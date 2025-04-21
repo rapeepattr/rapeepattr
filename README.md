@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Peet — a developer from Chiang Mai, Thailand 🇹🇭<br><br>🎓 I recently graduated with a degree in Computer Science from Chiang Mai University (CMU).  <br>I’m deeply passionate about continuous self-improvement and love building meaningful side projects that challenge and grow my skills.<br><br>- ⚡ In my free time, I enjoy reading productivity books, building side projects, and experimenting with UI/UX design.</p>
+<p align="left">Hi 👋, I'm Peet — a developer from Chiang Mai, Thailand 🇹🇭<br><br>🎓 I recently graduated with a degree in Computer Science from Chiang Mai University (CMU).  <br>I’m deeply passionate about continuous self-improvement and love building meaningful side projects that challenge and grow my skills.<br><br>⚡ In my free time, I enjoy reading productivity books, building side projects, and experimenting with UI/UX design.</p>
 
 ###
 
