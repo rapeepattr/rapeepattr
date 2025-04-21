@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Rapeepeat Treerattrakul</h1>
+<h1 align="center">Hey there 👋 I'm Rapeepat Treerattrakul</h1>
 
 ###
 
